@@ -1,0 +1,16 @@
+target
+
+# Intellij
+###################
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Eclipse
+###################
+**/.settings
+**/.project
+**/.classpath
+**/.checkstyle
+
